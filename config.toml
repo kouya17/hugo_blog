@@ -1,0 +1,8 @@
+baseURL = "http://kouya17.github.io"
+languageCode = "en-us"
+title = "Kouya17.github.io"
+theme = "aether"
+
+[params]
+brand = "kouya17"
+description = "kouya17's personal site"
