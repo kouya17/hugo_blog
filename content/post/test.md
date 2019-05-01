@@ -2,7 +2,8 @@
 title: "斜方投射軌道計算アプリ"
 date: 2019-04-30T21:15:59+09:00
 description: "Androidアプリの作成実績"
-categories: [Android, Java]
+categories: [Product]
+tags: [Android, Java]
 featuredImage: "/img/20160613055616e9e.png"
 featuredImageDescription: ""
 dropCap: true
