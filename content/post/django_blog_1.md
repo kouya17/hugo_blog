@@ -23,7 +23,9 @@ draft: false
   - デザインテンプレート：[Bootstrap](https://getbootstrap.com/)
   - サーバ：[ConoHa VPS](https://www.conoha.jp/) (CentOS+Nginx)
 - 全体的なレイアウトはBootstrap公式サイトに載っている[実装例](https://getbootstrap.com/docs/4.3/examples/blog/)を参考にした
+- [Let's Encrypt](https://letsencrypt.org/)を使ってHTTPSの設定を行なっている
 - 記事はmarkdown形式で書ける
+- サイトは[こちら](https://kouya17.com/)
 
 ## 雑記
 
