@@ -9,7 +9,7 @@ featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 ## 作成期間
