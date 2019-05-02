@@ -3,7 +3,7 @@ title: "TODOリスト作成アプリ"
 date: 2019-05-03T02:17:13+09:00
 description: "Pythonアプリケーションの作成実績"
 categories: [Product]
-featuredImage: "/image/todoList_1.png"
+featuredImage: "/img/todoList_1.png"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
