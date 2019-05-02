@@ -1,5 +1,5 @@
 ---
-title: "TODOリスト作成アプリ"
+title: "TODOリスト管理アプリ"
 date: 2019-05-03T02:17:13+09:00
 description: "Pythonアプリケーションの作成実績"
 categories: [Product]
