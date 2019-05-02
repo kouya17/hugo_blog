@@ -21,7 +21,7 @@ draft: false
 - 構成としては以下の通り
   - Webフレームワーク：[Django](https://www.djangoproject.com/)
   - デザインテンプレート：[Bootstrap](https://getbootstrap.com/)
-  - レンタルサーバ：[conoha](https://www.conoha.jp/)
+  - サーバ：[ConoHa VPS](https://www.conoha.jp/) (CentOS+Nginx)
 - 全体的なレイアウトはBootstrap公式サイトに載っている[実装例](https://getbootstrap.com/docs/4.3/examples/blog/)を参考にした
 - 記事はmarkdown形式で書ける
 
