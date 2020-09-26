@@ -12,6 +12,8 @@ displayInList: true
 draft: false
 ---
 
+![](/img/BallAnimation3.png)
+
 ## 作成期間
 
 - ほぼ覚えていないが2,3ヶ月くらい

@@ -12,6 +12,8 @@ displayInList: true
 draft: false
 ---
 
+![](/img/IMG_0841.JPG)
+
 ## 作成期間
 
 - 5ヶ月くらい

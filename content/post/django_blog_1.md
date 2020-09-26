@@ -12,6 +12,8 @@ displayInList: true
 draft: false
 ---
 
+![](/img/django_blog.png)
+
 ## 作成期間
 
 - 3ヶ月くらい

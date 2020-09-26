@@ -12,6 +12,8 @@ displayInList: true
 draft: false
 ---
 
+![](/img/20160613055616e9e.png)
+
 ## 作成期間
 
 - ちまちま作成して半年くらい

@@ -1,8 +1,39 @@
 baseURL = "https://kouya17.github.io"
 languageCode = "en-us"
 title = "kouya17.github.io"
-theme = "aether"
+theme = "hugo-PaperMod"
 
 [params]
 brand = "kouya17"
 description = "kouya17's personal site"
+ShowShareButtons = true
+ShowReadingTime = true
+ShowToc = true
+
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "kouya17's personal site"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/kouya17"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/aoki_kouya"
+
+[menu]
+
+  [[menu.main]]
+    name = "Product"
+    url = "/categories/product/"
+    weight = -110
+
+  [[menu.main]]
+    name = "Diary"
+    url = "/categories/diary/"
+    weight = -100
+  
+  [[menu.main]]
+    name = "Archive"
+    url = "/archives/"
