@@ -13,5 +13,5 @@ draft: false
 
 本ブログページについて、テーマを変えてリニューアルした。
 
-利用しているテーマは[PaperMod](https://github.com/adityatelange/hugo-PaperMod)。
+利用しているテーマは[hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)。
 見た目シンプルで良い。
